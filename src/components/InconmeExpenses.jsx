@@ -19,14 +19,14 @@ export default function InconmeExpenses () {
         <>
         <div className="flex justify-between my-2">
             <h4>
-                Income
+                Ingresos o ventas
             </h4>
             <p>
                 {income}
             </p>
         </div>   
         <div className="flex justify-between my-2"> 
-            <h4>Expense</h4>
+            <h4>Gastos</h4>
             <h4>{expense}</h4>
         </div>
         </>
