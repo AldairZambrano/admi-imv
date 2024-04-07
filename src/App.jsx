@@ -8,8 +8,8 @@ import Diagrama from './components/Diagrama'
 export default function App () {
   return(
     <GlobalProvider>
-    <div className="bg-neutral-950 text-white h-screen flex justify-center items-center">
-        <div className='w-2/5 flex justify-center items-center'>
+    <div className="bg-neutral-950 text-white h-screen flex justify-center items-center ">
+        <div className='w-5/5 flex justify-center items-center'>
             <div className='bg-neutral-800 p-10 rounded-md w-full'>
               <Header></Header>
                 <div className='flex flex-col md:flex-row justify-between gap-4'>
