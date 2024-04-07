@@ -8,7 +8,7 @@ function TransactionList () {
             <div className="bg-zinc-900 p-4 my-2">
                 <div className="h-full flex items-center justify-center w-full flex-col">
                     <h1 className="text-xl font-bold my-2">
-                        There are no Transactions yet
+                    Aún no hay transacciones
                     </h1>
                 </div>
             </div>

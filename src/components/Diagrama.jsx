@@ -32,10 +32,10 @@ export default function Diagrama () {
         colorScale={["#e74c3c", "#2ecc71"]}
         data={[
         {
-            x:"Expenses", y: totalExpensePorcentage
+            x:"Gastos", y: totalExpensePorcentage
         },
         {
-            x:"Incomes", y: totalIcomePorcentage
+            x:"Ingresos", y: totalIcomePorcentage
         },
         ]}
         animate={{duration:2000,}}

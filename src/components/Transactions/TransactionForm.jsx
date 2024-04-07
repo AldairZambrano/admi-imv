@@ -32,7 +32,7 @@ export default function TransactionForm () {
                 onChange={(e) => setAmount(e.target.value)}
                 value={amount}/>
                 <button className="bg-indigo-700 text-white px-3 py-2 rounded-lg block mb-2 w-full"
-                disabled={!description || !amount}>Add Transaction</button>
+                disabled={!description || !amount}>Agregar transacción</button>
             </form>
         </div>
     )
